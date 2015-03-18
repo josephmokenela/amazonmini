@@ -1,0 +1,19 @@
+<%--
+    Document   : footer
+    Created on : Feb 20, 2015, 12:20:12 AM
+    Author     : Joseph Mokenela
+--%>
+
+
+            <div id="footer">
+                <br>
+                <hr>
+                <p id="footerText" class="reallySmallText">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="#">Contact</a>
+                    &nbsp;&nbsp;&copy;&nbsp;&nbsp;
+                    2015 the Amazon Mini</p>
+            </div>
+        </div>
+    </body>
+</html>
